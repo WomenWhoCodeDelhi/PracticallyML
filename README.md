@@ -1,5 +1,5 @@
 # PracticallyML-Session1
-This repository contains the contents of Session 1 of the 'Practically ML' Workshop.
+This repository contains the contents of Session 1 and 2 of the 'Practically ML' Workshop.
 
 Installations of required libraries can be done from ```requirements.txt```.
 
