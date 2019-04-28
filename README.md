@@ -16,4 +16,7 @@ Session 3: Logistic Regression (Theory, Code from scratch, Concepts, Sklearn imp
 Session 4: Unsupervised Learning - K-Means Clustering (Theory, Code from scratch, Concepts, Sklearn implementation) 
 http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html
 
+- Resources:
+100 days of ML Code - Incomplete but a good start: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+
 Incomplete README, completion after the session.
