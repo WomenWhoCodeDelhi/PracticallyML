@@ -13,4 +13,7 @@ Session 2: Linear Regression (Theory, code from scratch, sklearn implementation)
 
 Session 3: Logistic Regression (Theory, Code from scratch, Concepts, Sklearn implementation)
 
+Session 4: 
+http://stanford.edu/class/ee103/visualizations/kmeans/kmeans.html
+
 Incomplete README, completion after the session.
